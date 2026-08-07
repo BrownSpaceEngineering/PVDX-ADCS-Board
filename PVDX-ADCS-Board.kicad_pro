@@ -661,13 +661,25 @@
         "uuid": "fbb597ca-297a-4338-ae0d-7994cc902267"
       }
     ],
-    "used_designators": "R1-18,J1-2,U1-19,#PWR1-54,C1-18",
+    "used_designators": "#PWR1-162,R_SHUNT1,C_BY1,C1-54,R1-54,J1-6,U1-54",
     "variants": []
   },
   "sheets": [
     [
       "fbb597ca-297a-4338-ae0d-7994cc902267",
       "Root"
+    ],
+    [
+      "393f9f45-1d58-4b55-b238-aac880a70c65",
+      "Connectors"
+    ],
+    [
+      "3d34634e-9850-4162-9945-f73c610e2cbd",
+      "Photodiodes"
+    ],
+    [
+      "4bc90e74-7c2e-4008-bf56-b1a22e133efc",
+      "Perovskites"
     ]
   ],
   "text_variables": {},

@@ -1,0 +1,157 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "fbb597ca-297a-4338-ae0d-7994cc902267")
+	(paper "A3")
+	(title_block
+		(title "PVDX ADCS Board")
+		(date "2026-08-06")
+		(company "Brown Space Engineering")
+	)
+	(lib_symbols)
+	(sheet
+		(at 64.77 99.06)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "393f9f45-1d58-4b55-b238-aac880a70c65")
+		(property "Sheetname" "Connectors"
+			(at 64.77 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 64.77 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-Board"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 113.03)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3d34634e-9850-4162-9945-f73c610e2cbd")
+		(property "Sheetname" "Photodiodes"
+			(at 64.77 112.3184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "photodiodes.kicad_sch"
+			(at 64.77 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-Board"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 127)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4bc90e74-7c2e-4008-bf56-b1a22e133efc")
+		(property "Sheetname" "Perovskites"
+			(at 64.77 126.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "perovskites.kicad_sch"
+			(at 64.77 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-Board"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
