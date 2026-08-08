@@ -11,6 +11,52 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 64.77 140.97)
+		(size 26.035 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2dc2922d-9694-40c4-a2c4-76eb44f991c2")
+		(property "Sheetname" "Magnetorquers"
+			(at 64.77 140.2584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "magnetorquers.kicad_sch"
+			(at 64.77 149.1746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PVDX-ADCS-Board"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 64.77 99.06)
 		(size 26.035 7.62)
 		(exclude_from_sim no)

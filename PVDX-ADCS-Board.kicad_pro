@@ -661,7 +661,7 @@
         "uuid": "fbb597ca-297a-4338-ae0d-7994cc902267"
       }
     ],
-    "used_designators": "#PWR1-162,R_SHUNT1,C_BY1,C1-54,R1-54,J1-6,U1-54",
+    "used_designators": "#PWR84,#PWR87,#PWR90,#PWR93,#PWR96,#PWR99,#PWR102,#PWR105,#PWR108-110,C37-42,J7,U4,U10",
     "variants": []
   },
   "sheets": [
@@ -680,6 +680,10 @@
     [
       "4bc90e74-7c2e-4008-bf56-b1a22e133efc",
       "Perovskites"
+    ],
+    [
+      "2dc2922d-9694-40c4-a2c4-76eb44f991c2",
+      "Magnetorquers"
     ]
   ],
   "text_variables": {},
