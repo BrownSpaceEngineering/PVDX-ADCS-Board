@@ -2225,6 +2225,12 @@
 		(uuid "29d15a43-aa07-4616-9e54-785e2fefbcf1")
 	)
 	(junction
+		(at 241.3 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40a1f3af-0a19-4262-ba5e-7d90ace1fdc0")
+	)
+	(junction
 		(at 25.4 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2247,12 +2253,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89f4561c-4f4e-43e7-bd26-4a86e346c583")
-	)
-	(junction
-		(at 241.3 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8b268f59-9426-4406-a800-637597606a0a")
 	)
 	(junction
 		(at 269.24 81.28)
@@ -2519,6 +2519,16 @@
 			(type default)
 		)
 		(uuid "26c4fd37-14eb-4788-97a2-dda8cedc7451")
+	)
+	(wire
+		(pts
+			(xy 240.03 90.17) (xy 241.3 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27997c91-e43a-42b9-9312-8c8b5acb9d46")
 	)
 	(wire
 		(pts
@@ -3572,6 +3582,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 90.17) (xy 241.3 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d73dd1e5-2cdf-456c-96ed-28844bcafc3c")
+	)
+	(wire
+		(pts
 			(xy 232.41 121.92) (xy 233.68 121.92)
 		)
 		(stroke
@@ -4060,6 +4080,30 @@
 			)
 		)
 	)
+	(global_label "FOLLOW"
+		(shape passive)
+		(at 240.03 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4aa13b51-b379-48ec-87f4-7eb0aba5eaa0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 230.8989 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "PIXEL11+"
 		(shape passive)
 		(at 171.45 105.41 180)
@@ -4132,7 +4176,7 @@
 			)
 		)
 	)
-	(global_label "PIXEL+"
+	(global_label "FOLLOW"
 		(shape passive)
 		(at 270.51 41.91 0)
 		(fields_autoplaced yes)
@@ -4144,7 +4188,7 @@
 		)
 		(uuid "5f7a915e-9fe1-48cf-8e64-6e3bffdf76da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 279.2177 41.91 0)
+			(at 279.6411 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4300,30 +4344,6 @@
 			)
 		)
 	)
-	(global_label "PIXEL+"
-		(shape passive)
-		(at 240.03 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7a7a53ab-738e-4fdf-a84e-f8bd4338628e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.3223 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "PIXEL12+"
 		(shape passive)
 		(at 171.45 107.95 180)
@@ -4361,6 +4381,30 @@
 		(uuid "951e20ce-7536-4fcd-8a52-c484286b28c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 54.9133 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "PIXEL+"
+		(shape passive)
+		(at 240.03 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96998b94-0740-491f-970f-e2e54fe5e362")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 231.3223 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8631,7 +8675,7 @@
 		(dnp no)
 		(uuid "9b8b4985-e9c0-4d1d-8ccf-52055b29a68e")
 		(property "Reference" "R_SHUNT1"
-			(at 231.14 84.328 0)
+			(at 229.87 84.328 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8642,7 +8686,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 236.982 86.614 0)
+			(at 235.712 86.614 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8695,83 +8739,6 @@
 			(project "PVDX-ADCS-Board"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/4bc90e74-7c2e-4008-bf56-b1a22e133efc"
 					(reference "R_SHUNT1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 241.3 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9bfceb3d-60f4-4557-a155-c7eb04ad9a63")
-		(property "Reference" "#PWR043"
-			(at 241.3 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.3 92.964 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 241.3 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 241.3 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ce6ed4a1-2da9-429a-ba23-dac9ebbe3392")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/4bc90e74-7c2e-4008-bf56-b1a22e133efc"
-					(reference "#PWR043")
 					(unit 1)
 				)
 			)
