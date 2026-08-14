@@ -1,4 +1,6 @@
 (sym_lib_table
-	(version 7)
-	(lib (name "OPA2381AIDGKR") (type "KiCad") (uri "${KIPRJMOD}/imported/OPA2381AIDGKR/2026-08-08_05-24-37.kicad_sym") (options "") (descr ""))
+        (version 7)
+        (lib (name "FDV303N") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/FDV303N.kicad_sym") (options "") (descr ""))
+        (lib (name "OPA2381AIDGKR") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/OPA2381AIDGKR.kicad_sym") (options "") (descr ""))
+        (lib (name "ADG734BRUZ") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/ADG734BRUZ.kicad_sym") (options "") (descr ""))
 )

@@ -37,7 +37,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "magnetorquers.kicad_sch"
+		(property "Sheetfile" "schematics/magnetorquers.kicad_sch"
 			(at 64.77 149.1746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83,7 +83,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "connectors.kicad_sch"
+		(property "Sheetfile" "schematics/connectors.kicad_sch"
 			(at 64.77 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -129,7 +129,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "photodiodes.kicad_sch"
+		(property "Sheetfile" "schematics/photodiodes.kicad_sch"
 			(at 64.77 121.2346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -175,7 +175,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "perovskites.kicad_sch"
+		(property "Sheetfile" "schematics/perovskites.kicad_sch"
 			(at 64.77 135.2046 0)
 			(show_name no)
 			(do_not_autoplace no)

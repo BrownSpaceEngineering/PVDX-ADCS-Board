@@ -1,0 +1,5 @@
+*.kicad_pro text eol=crlf
+*.kicad_sch text eol=crlf
+*.kicad_pcb text eol=crlf
+fp-lib-table text eol=crlf
+sym-lib-table text eol=crlf
