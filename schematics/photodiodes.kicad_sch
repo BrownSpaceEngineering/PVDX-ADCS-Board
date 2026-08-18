@@ -957,12 +957,6 @@
 		(uuid "1ce12d2f-18ab-4c0c-871f-1533ba44935a")
 	)
 	(junction
-		(at 168.91 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e17aa0d-d911-48d9-8873-4a6e914272a1")
-	)
-	(junction
 		(at 163.83 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -999,12 +993,6 @@
 		(uuid "29a937db-30b2-4b30-8fba-9a9800e3e4cf")
 	)
 	(junction
-		(at 119.38 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e731b2c-3707-4291-a53a-589adc956aad")
-	)
-	(junction
 		(at 163.83 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1015,30 +1003,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2fb82e93-2ab7-425d-89f8-a177e6753cd5")
-	)
-	(junction
-		(at 229.87 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31110a11-4daa-4a99-9c4b-00192d11bc0f")
-	)
-	(junction
-		(at 58.42 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31a179d0-91bf-4c18-aa25-6f979d8fc854")
-	)
-	(junction
-		(at 58.42 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34fbc121-9c66-4326-904b-f019d5cc390f")
-	)
-	(junction
-		(at 58.42 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "37150b67-af0d-4683-8bff-0a95e5a2a05a")
 	)
 	(junction
 		(at 128.27 101.6)
@@ -1069,12 +1033,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "517a2e57-4dce-4cbd-b504-bd7269b0f070")
-	)
-	(junction
-		(at 168.91 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55ccbc7d-c105-4795-a0d4-ee3c79c0b34c")
 	)
 	(junction
 		(at 163.83 66.04)
@@ -1113,12 +1071,6 @@
 		(uuid "6cd1e3e8-1145-4467-94b9-05f450a783bc")
 	)
 	(junction
-		(at 168.91 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e14bbd3-5dd4-4184-873c-77c38d7bf878")
-	)
-	(junction
 		(at 238.76 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1131,22 +1083,10 @@
 		(uuid "738c952c-0e53-4cdc-884c-ecf7646a0619")
 	)
 	(junction
-		(at 229.87 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "75194cd7-d5a4-47f7-b11a-a980b3b36633")
-	)
-	(junction
 		(at 128.27 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "762aa51d-3d22-4411-a48c-b9306a1c3591")
-	)
-	(junction
-		(at 168.91 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "784e9af9-2e65-4f74-8d87-28f1618c132e")
 	)
 	(junction
 		(at 128.27 29.21)
@@ -1197,28 +1137,10 @@
 		(uuid "8b14c155-5eb3-4ffc-a15c-40b5e28752cc")
 	)
 	(junction
-		(at 58.42 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9169170b-a5d5-4298-a3e6-1058a0c0de2e")
-	)
-	(junction
-		(at 119.38 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "91ec1104-7efa-4799-a015-d5ac3b3d763f")
-	)
-	(junction
 		(at 53.34 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "931cbf05-c384-418a-a3d9-3944937d5b49")
-	)
-	(junction
-		(at 229.87 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9972841c-ed48-4441-ab48-4db80f4a4e3f")
 	)
 	(junction
 		(at 241.3 68.58)
@@ -1233,12 +1155,6 @@
 		(uuid "9caba4bf-59ad-419f-9a89-cfb1ed5b6d49")
 	)
 	(junction
-		(at 58.42 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a10246b5-6733-436e-a908-08755d8d96cf")
-	)
-	(junction
 		(at 130.81 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1251,34 +1167,10 @@
 		(uuid "ae38a140-9fa0-4f25-bed5-6af4f7b5e2f8")
 	)
 	(junction
-		(at 58.42 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae3c6e27-a50d-4cb9-b785-18578490b030")
-	)
-	(junction
-		(at 229.87 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af5ee989-f26c-4219-b9c2-b85b434a1b05")
-	)
-	(junction
 		(at 128.27 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b05feb9b-3553-4eff-8fe2-e218450e7c70")
-	)
-	(junction
-		(at 58.42 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b70891b6-82cb-4836-8a00-88338970a140")
-	)
-	(junction
-		(at 168.91 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b70e8b11-df1f-4d1a-a178-a00dc1de56da")
 	)
 	(junction
 		(at 168.91 58.42)
@@ -1293,46 +1185,10 @@
 		(uuid "c180fd25-c4e3-4dbe-aa6e-372c61b01d4c")
 	)
 	(junction
-		(at 119.38 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c25177d1-00d9-4f1c-9de8-25c40a962ed0")
-	)
-	(junction
-		(at 168.91 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3e89b3e-3405-4f22-8f97-97458e17dc53")
-	)
-	(junction
-		(at 119.38 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c5eb5578-133b-4799-9f66-8765424bb9f7")
-	)
-	(junction
 		(at 53.34 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c9573ab8-d700-42fd-962d-9d373212452b")
-	)
-	(junction
-		(at 119.38 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1f5f8e2-9424-4d5e-ba26-822871ffc766")
-	)
-	(junction
-		(at 58.42 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d354c25b-9641-4aae-98b6-ed1627b396ca")
-	)
-	(junction
-		(at 58.42 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4b06894-a259-4b9a-9818-3277f7259eaa")
 	)
 	(junction
 		(at 128.27 170.18)
@@ -1383,12 +1239,6 @@
 		(uuid "efa6c297-415c-4423-925d-36468c7062bf")
 	)
 	(junction
-		(at 168.91 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f0488e2b-881c-457c-977b-e48394040744")
-	)
-	(junction
 		(at 53.34 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1399,18 +1249,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f36fa6d1-432c-4976-9595-fc8806a7e12d")
-	)
-	(junction
-		(at 58.42 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f3acf55c-8c0c-4882-8349-4931f20e542a")
-	)
-	(junction
-		(at 168.91 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f527087c-602b-4b6c-93fa-8aaffadfb072")
 	)
 	(junction
 		(at 161.29 133.35)
@@ -1818,16 +1656,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 170.18) (xy 58.42 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a4ec9eb-ae62-4ed2-9f9e-9d7abe5fa7cf")
-	)
-	(wire
-		(pts
 			(xy 58.42 58.42) (xy 53.34 58.42)
 		)
 		(stroke
@@ -2228,16 +2056,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 135.89) (xy 168.91 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f118f61-5f8d-4548-9c8a-5a54d35d8d65")
-	)
-	(wire
-		(pts
 			(xy 229.87 135.89) (xy 238.76 135.89)
 		)
 		(stroke
@@ -2375,16 +2193,6 @@
 			(type default)
 		)
 		(uuid "707ca1ae-70cd-4616-956b-e688744418c9")
-	)
-	(wire
-		(pts
-			(xy 58.42 134.62) (xy 58.42 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7468e854-2ab3-4f79-838a-dff85ac88f31")
 	)
 	(wire
 		(pts
@@ -2758,16 +2566,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 36.83) (xy 168.91 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a48e7f06-73bd-48ae-82fd-257fd2b35cd6")
-	)
-	(wire
-		(pts
 			(xy 161.29 34.29) (xy 163.83 34.29)
 		)
 		(stroke
@@ -3018,16 +2816,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 101.6) (xy 168.91 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6567cb5-78d4-4f96-b727-cf97388f38b5")
-	)
-	(wire
-		(pts
 			(xy 168.91 26.67) (xy 163.83 26.67)
 		)
 		(stroke
@@ -3105,16 +2893,6 @@
 			(type default)
 		)
 		(uuid "cf5cc5c8-a6bd-4999-bef0-62d8b2f4ee00")
-	)
-	(wire
-		(pts
-			(xy 58.42 36.83) (xy 58.42 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf7be929-7fe9-4d4e-9253-6a10c55252e5")
 	)
 	(wire
 		(pts
@@ -3235,26 +3013,6 @@
 			(type default)
 		)
 		(uuid "d94b591c-a9f8-458a-a700-89e693b2f3bc")
-	)
-	(wire
-		(pts
-			(xy 58.42 68.58) (xy 58.42 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbf560e4-a0bb-4822-87b6-87242bf14206")
-	)
-	(wire
-		(pts
-			(xy 168.91 68.58) (xy 168.91 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc2a2edb-093d-4d17-98d7-f7c1101f64d8")
 	)
 	(wire
 		(pts
@@ -3575,16 +3333,6 @@
 			(type default)
 		)
 		(uuid "fc7fe54f-6fe8-4b6f-a574-76acb4006f01")
-	)
-	(wire
-		(pts
-			(xy 58.42 101.6) (xy 58.42 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe3b353f-ff70-4e80-8a2b-fe4f4cf43d9a")
 	)
 	(wire
 		(pts
@@ -4923,7 +4671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 52.324 30.226 90)
 			(hide yes)
 			(show_name no)
@@ -4972,83 +4720,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 119.38 71.12 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "028f1dd0-72eb-404b-ace0-5cb9fe4603ed")
-		(property "Reference" "#PWR0124"
-			(at 119.38 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 75.184 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4123b0e6-19ca-4f96-955a-96f63b7270b5")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0124")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "OPA2381AIDGKR:OPA2381AIDGKR")
 		(at 168.91 63.5 0)
 		(unit 1)
@@ -5080,7 +4751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 168.91 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5180,7 +4851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 58.42 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5433,7 +5104,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 52.324 94.996 90)
 			(hide yes)
 			(show_name no)
@@ -5512,7 +5183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.7848 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5591,7 +5262,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.824 32.766 90)
 			(hide yes)
 			(show_name no)
@@ -5747,7 +5418,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.824 97.536 90)
 			(hide yes)
 			(show_name no)
@@ -5981,7 +5652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 58.42 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6157,7 +5828,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.3048 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6313,7 +5984,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 52.324 128.016 90)
 			(hide yes)
 			(show_name no)
@@ -6433,160 +6104,6 @@
 			(project "PVDX-ADCS-Board"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "#PWR0143")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 119.38 172.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "474dc612-3bbc-446c-9cd7-1d2ba8ed69bb")
-		(property "Reference" "#PWR0133"
-			(at 119.38 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 176.784 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "04f07e13-764f-4b41-ab1b-cdf3f6ba3dc6")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0133")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 119.38 39.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4b73f44b-5515-4103-88c1-4dc3ac5af517")
-		(property "Reference" "#PWR0121"
-			(at 119.38 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 43.434 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "34cbd5d3-f8e6-4664-9f98-383f9e9fd953")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -6747,160 +6264,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 229.87 71.12 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4e9effd6-fa1d-4c2e-b062-797f255b31af")
-		(property "Reference" "#PWR0139"
-			(at 229.87 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 229.87 75.184 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 229.87 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "34893f0a-d8f0-4f3a-8572-b225a65d23d5")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0139")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 119.38 104.14 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "53203c04-b35c-4a45-a3b8-6a698aced0ad")
-		(property "Reference" "#PWR0127"
-			(at 119.38 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 108.204 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6b3b537d-b47d-457f-b94e-828da06ecc2c")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0127")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "OPA2381AIDGKR:OPA2381AIDGKR")
 		(at 58.42 96.52 0)
 		(unit 1)
@@ -6932,7 +6295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 58.42 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7031,7 +6394,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.334 130.556 90)
 			(hide yes)
 			(show_name no)
@@ -7187,7 +6550,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 47.2948 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -7343,7 +6706,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.334 97.536 90)
 			(hide yes)
 			(show_name no)
@@ -7392,160 +6755,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 229.87 39.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6592e72d-c276-44c8-b17a-ff895995a9ed")
-		(property "Reference" "#PWR0136"
-			(at 229.87 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 229.87 43.434 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 229.87 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "713a4a49-6b1f-476c-aef7-d1a5c4c50680")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0136")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 119.38 137.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6657b453-5c3c-4a79-96ab-4190181a6b2a")
-		(property "Reference" "#PWR0130"
-			(at 119.38 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 141.224 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ad4c6630-9b8d-43c6-8976-7a4720243662")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0130")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 128.27 33.02 180)
 		(unit 1)
@@ -7576,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.3048 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7619,83 +6828,6 @@
 			(project "PVDX-ADCS-Board"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "C46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 58.42 137.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "70011619-e6b3-43a9-90ba-9e6d69261343")
-		(property "Reference" "#PWR0128"
-			(at 58.42 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 58.42 141.224 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 58.42 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 58.42 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 58.42 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cddb7b1b-8ebc-4872-ad26-b1e89e173966")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -7809,7 +6941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 52.324 163.576 90)
 			(hide yes)
 			(show_name no)
@@ -7888,7 +7020,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 237.7948 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7937,83 +7069,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 229.87 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "86f74dc5-8b78-48d8-a6ff-ae96a81fd9ec")
-		(property "Reference" "#PWR0145"
-			(at 229.87 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 229.87 142.494 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 229.87 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "434697c5-3d32-47bd-bab1-08cefbec17ff")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0145")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 133.35 64.77 180)
 		(unit 1)
@@ -8044,7 +7099,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.334 64.516 90)
 			(hide yes)
 			(show_name no)
@@ -8123,7 +7178,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 237.7948 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8202,7 +7257,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 47.2948 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -8281,7 +7336,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.334 32.766 90)
 			(hide yes)
 			(show_name no)
@@ -8360,7 +7415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 237.7948 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -8439,7 +7494,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 52.324 61.976 90)
 			(hide yes)
 			(show_name no)
@@ -8518,7 +7573,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.814 30.226 90)
 			(hide yes)
 			(show_name no)
@@ -8597,7 +7652,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 47.2948 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8676,7 +7731,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.7848 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8879,83 +7934,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 229.87 104.14 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "beea676b-1153-4f18-9a4d-fbf92972833d")
-		(property "Reference" "#PWR0142"
-			(at 229.87 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 229.87 108.204 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 229.87 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "64d374df-cf4f-4e4b-a49c-4958ef9b0998")
-		)
-		(instances
-			(project "PVDX-ADCS-Board"
-				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
-					(reference "#PWR0142")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 163.83 95.25 180)
 		(unit 1)
@@ -8986,7 +7964,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.814 94.996 90)
 			(hide yes)
 			(show_name no)
@@ -9065,7 +8043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.3048 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -9221,7 +8199,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.814 61.976 90)
 			(hide yes)
 			(show_name no)
@@ -9300,7 +8278,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 47.2948 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9380,7 +8358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 168.91 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9480,7 +8458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 168.91 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -9579,7 +8557,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.3048 127 0)
 			(hide yes)
 			(show_name no)
@@ -9658,7 +8636,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 237.7948 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9737,7 +8715,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.7848 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9816,7 +8794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.3048 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9895,7 +8873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.824 131.826 90)
 			(hide yes)
 			(show_name no)
@@ -9974,7 +8952,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.334 166.116 90)
 			(hide yes)
 			(show_name no)
@@ -10053,7 +9031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 242.824 64.516 90)
 			(hide yes)
 			(show_name no)
@@ -10133,7 +9111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 58.42 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10232,7 +9210,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.814 129.286 90)
 			(hide yes)
 			(show_name no)
@@ -10311,7 +9289,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.7848 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10390,7 +9368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 47.2948 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -10470,7 +9448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 58.42 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -10647,7 +9625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DGK8"
+		(property "Footprint" "footprints:DGK8"
 			(at 168.91 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10710,6 +9688,84 @@
 			(project "PVDX-ADCS-Board"
 				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
 					(reference "U18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 58.42 137.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f91ab044-064a-4c1d-b801-c272e09ffe44")
+		(property "Reference" "#PWR02"
+			(at 58.42 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 58.42 142.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 58.42 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 58.42 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8af9a04-23ed-4a55-8c38-54f15c2fe474")
+		)
+		(instances
+			(project "PVDX-ADCS-Board"
+				(path "/fbb597ca-297a-4338-ae0d-7994cc902267/3d34634e-9850-4162-9945-f73c610e2cbd"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
