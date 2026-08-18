@@ -4,4 +4,5 @@
 	(lib (name "OPA2381AIDGKR") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/OPA2381AIDGKR.kicad_sym") (options "") (descr ""))
 	(lib (name "ADG734BRUZ") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/ADG734BRUZ.kicad_sym") (options "") (descr ""))
 	(lib (name "FH34SRJ-18S-0_5SH_50_") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/FH34SRJ-18S-0_5SH_50_.kicad_sym") (options "") (descr ""))
+	(lib (name "GRM188R61A226ME15D") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/GRM188R61A226ME15D.kicad_sym") (options "") (descr ""))
 )

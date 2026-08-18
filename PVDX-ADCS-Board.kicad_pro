@@ -514,9 +514,20 @@
       },
       {
         "clearance": 0.127,
-        "name": "Power",
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 1.0,
+        "name": "MTQ",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.0,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.127,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": ""
@@ -535,6 +546,10 @@
       {
         "netclass": "Power",
         "pattern": "+3V3"
+      },
+      {
+        "netclass": "MTQ",
+        "pattern": "MTQ*"
       }
     ]
   },
@@ -629,12 +644,54 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -687,7 +744,7 @@
         "uuid": "fbb597ca-297a-4338-ae0d-7994cc902267"
       }
     ],
-    "used_designators": "#PWR1-3,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-47,J1,C_BY7-9,C1",
+    "used_designators": "#PWR1-3,#PWR18,#PWR25,#PWR38,#PWR43,#PWR46-47,#PWR85-86,#PWR113-114,J1,C_BY7-9,C1,CB2-3",
     "variants": []
   },
   "sheets": [

@@ -5660,7 +5660,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 132.08 154.686 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6211,7 +6211,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 129.54 31.496 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6446,7 +6446,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 130.81 44.196 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6603,7 +6603,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 129.54 180.086 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6682,7 +6682,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 237.49 131.826 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7471,7 +7471,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 128.27 69.596 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7852,7 +7852,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 237.49 119.126 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8008,7 +8008,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 217.17 69.596 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8685,7 +8685,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 219.71 56.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8995,7 +8995,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 219.71 44.196 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9232,7 +9232,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 130.81 56.896 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9992,7 +9992,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 218.44 31.496 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10148,7 +10148,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 236.22 106.426 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10304,7 +10304,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 130.81 141.986 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10383,7 +10383,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 234.95 144.526 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11012,7 +11012,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100"
 			(at 132.08 167.386 90)
 			(show_name no)
 			(do_not_autoplace no)
